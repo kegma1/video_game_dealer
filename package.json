@@ -1,0 +1,15 @@
+{
+  "name": "video_game_dealer",
+  "version": "1.0.0",
+  "description": "Bot for tracking and updating users about deals on games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
